@@ -1,0 +1,11 @@
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\bin\Debug\netcoreapp2.1\Ch07Ex02.deps.json
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\bin\Debug\netcoreapp2.1\Ch07Ex02.runtimeconfig.json
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\bin\Debug\netcoreapp2.1\Ch07Ex02.runtimeconfig.dev.json
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\bin\Debug\netcoreapp2.1\Ch07Ex02.dll
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\bin\Debug\netcoreapp2.1\Ch07Ex02.pdb
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\obj\Debug\netcoreapp2.1\Ch07Ex02.csprojAssemblyReference.cache
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\obj\Debug\netcoreapp2.1\Ch07Ex02.csproj.CoreCompileInputs.cache
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\obj\Debug\netcoreapp2.1\Ch07Ex02.AssemblyInfoInputs.cache
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\obj\Debug\netcoreapp2.1\Ch07Ex02.AssemblyInfo.cs
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\obj\Debug\netcoreapp2.1\Ch07Ex02.dll
+C:\BeginningCSharp7\Chapter07\Ch07Ex02\Ch07Ex02\obj\Debug\netcoreapp2.1\Ch07Ex02.pdb
